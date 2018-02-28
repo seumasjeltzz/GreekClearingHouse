@@ -4,6 +4,7 @@
 ἀγαθὸς 
 ὁ 
 πένης
+ἀλλά
 
 2
 Words
@@ -12,7 +13,7 @@ Words
 Ἰοάννης
 Ἰουδαῖος 
 ἢ 
-Ἑλληνικός
+Ἕλλην
 οὐκ
 
 Features
@@ -23,14 +24,56 @@ or/alternative
 3
 Words
 οἰκεῖ 
-Ἰουδαία
-γῆ
+Ἀθῆναι
+πόλις
 καί
 
 Features
 genitive
 verb, 3rd sg ε contract
+3rd decl ις noun
+plural city name.
 
 4
 ἄλλος
 πλοῦτος
+Κέφαλος
+δέ
+
+
+Features
+
+verb, 3rd pl ε contract
+
+5
+
+Words
+βαίνει 
+ποῦ; 
+ἐν ὁδῷ 
+ἐν τῇ ὁδῷ 
+ἐν τῇ αὑτῇ ὁδῷ 
+βλέπει
+
+Features
+nom/acc 
+'the same' 
+fem article with 2nd dec noun
+
+
+6 
+
+Words
+λέγει
+χαῖρε
+ὦ 
+φίλε
+πῶς ἔχεις;
+καλῶς ἔχω
+σύ
+κακῶς 
+
+Features
+dative
+vocative
+adverbs
