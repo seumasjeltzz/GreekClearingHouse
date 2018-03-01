@@ -1,9 +1,14 @@
 ﻿ἄνθρωπός ἐστιν. ἀγαθὸς ὁ ἄνθρωπος. πένης ὁ ἄνθρωπος. ὁ ἄνθρωπός ἐστιν ἀγαθὸς ἀλλὰ πένης. 
 
 Words
-ἄνθρωπός 
-ἐστιν 
-ἀγαθὸς 
-ὁ 
-πένης
-ἀλλά
+ἄνθρωπός - human being
+ἐστιν - is
+ἀγαθὸς - good
+ὁ - (the)
+πένης - poor
+ἀλλά - but
+
+There is a man. 
+The man is good.
+The man is poor.
+The man is good but poor.
